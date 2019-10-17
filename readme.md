@@ -3,7 +3,7 @@
 
 # Bash Terminal Commands Reference
 
-## Use this 
+## Use this to reference your most used bash commands. Also includes a link to the full list of bash commands.
 
 ### The *most used* commands
  1. ls - list files

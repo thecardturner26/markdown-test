@@ -1,5 +1,23 @@
-today is october 16th 2019
+<img src="https://i.imgur.com/Ul1iduj.png">
 
-# trying out the in markdown
-## and this is my h2
-### strong emphasis, aka bold, with 
+
+# Bash Terminal Commands Reference
+
+## Use this 
+
+### The *most used* commands
+ 1. ls - list files
+ 2. mkdir - make directory
+ 3. cd - change directory
+ 4. pwd - working directory
+ 5. cd ~ - home directory
+ 6. cd .. - goes back once
+
+### Commands that deal with *files* 
+1. touch - creates a file 
+2. rm - removes
+3. cp - copy files
+4. cat - shows content
+
+## For more commands go here
+- [Complete list of commands](https://courses.cs.washington.edu/courses/cse390a/14au/bash.html)
